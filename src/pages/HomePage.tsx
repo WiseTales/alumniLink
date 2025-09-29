@@ -133,27 +133,27 @@ const HomePage: React.FC = () => {
           <div className="grid md:grid-cols-4 gap-8">
             {[
               {
-                name: 'Sarah Johnson',
+                name: 'Alisha Fatima',
                 role: 'Software Engineer at Google',
-                batch: 'Class of 2018',
+                batch: 'Class of 2022',
                 image: 'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&dpr=1'
               },
               {
-                name: 'Michael Chen',
+                name: 'Rohit Yadav',
                 role: 'Product Manager at Microsoft',
-                batch: 'Class of 2016',
+                batch: 'Class of 2018',
                 image: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&dpr=1'
               },
               {
-                name: 'Emily Rodriguez',
+                name: 'Muskan Srivastava',
                 role: 'Marketing Director',
                 batch: 'Class of 2020',
                 image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&dpr=1'
               },
               {
-                name: 'David Thompson',
+                name: 'Samir Khushwaha',
                 role: 'Senior Engineer at Tesla',
-                batch: 'Class of 2015',
+                batch: 'Class of 2017',
                 image: 'https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&dpr=1'
               }
             ].map((alumni, index) => (
