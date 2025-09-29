@@ -24,7 +24,7 @@ const AdminDashboard: React.FC = () => {
             department: 'Electrical Engineering',
             location: 'Seattle, WA',
             profession: 'Hardware Engineer at Intel',
-            profilePicture: 'https://as1.ftcdn.net/v2/jpg/13/82/76/28/1000_F_1382762871_Lk1aVutKH8Tpcc8vNVRtuoifcH3bA0A2.webp'
+            profilePicture: 'https://images.pexels.com/photos/1139743/pexels-photo-1139743.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&dpr=1'
           },
           {
             id: `ALM${String(state.alumni.length + 2).padStart(3, '0')}`,
